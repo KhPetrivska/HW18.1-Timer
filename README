@@ -1,0 +1,7 @@
+### Task 18.1: Timer 
+
+Implement a Countdown Timer:
+
+- The timer's start time should be set using a variable.
+- Display the time on the page in the format 01:25.
+- Stop the timer when it reaches zero.
